@@ -2,13 +2,13 @@
 .DS_Store
 
 # Artifacts
-build
-downloads
+build/
+workspace/
 sysroot*/
 artifacts/
 
 # VSCode
-.vscode
+launch.json
 
 # Swift
 .config
