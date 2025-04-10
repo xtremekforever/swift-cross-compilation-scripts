@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Artifacts
+build
+downloads
+sysroot*/
+artifacts/
+
+# VSCode
+.vscode
+
+# Swift
+.config
+.build*
+.swiftpm
